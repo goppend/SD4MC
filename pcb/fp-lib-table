@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SD4MC)(type KiCad)(uri ${KIPRJMOD}/lib)(options "")(descr "Library for the SD4MC project"))
+)
